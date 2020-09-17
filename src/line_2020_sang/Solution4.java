@@ -1,4 +1,4 @@
-package line_2020;
+package line_2020_sang;
 import java.util.*;
 
 public class Solution4 {

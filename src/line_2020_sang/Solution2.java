@@ -1,4 +1,4 @@
-package line_2020;
+package line_2020_sang;
 public class Solution2 {
 	
 	static public int solution(String answer_sheet, String[] sh) {
